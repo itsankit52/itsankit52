@@ -77,3 +77,9 @@ Driven by curiosity and creativity, my goal is to use technology to build **inno
 - 📧 Email: ankitthakur960ak@gmail.com
 
 ---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/itsankit52/itsankit52/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://github.com/itsankit52/itsankit52/blob/output/github-contribution-grid-snake-dark.svg)
