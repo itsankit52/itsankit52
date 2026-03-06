@@ -40,14 +40,6 @@ Driven by curiosity and creativity, my goal is to use technology to build **inno
 
 ---
 
-## 📊 GitHub Stats
-
-![Ankit GitHub stats](https://github-readme-stats.vercel.app/api?username=itsankit52&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsankit52&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=itsankit52&theme=tokyonight)
@@ -77,9 +69,3 @@ Driven by curiosity and creativity, my goal is to use technology to build **inno
 - 📧 Email: ankitthakur960ak@gmail.com
 
 ---
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/itsankit52/itsankit52/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation dark](https://github.com/itsankit52/itsankit52/blob/output/github-contribution-grid-snake-dark.svg)
