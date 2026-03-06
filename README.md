@@ -2,18 +2,22 @@
 <h3 align="center">Computer Science Student | Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+DevConnect" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DSA+Enthusiast;Web+Developer;React+Learner;Building+DevConnect" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student  
-- 💻 Passionate about **Web Development & Problem Solving**  
-- 🌱 Currently learning **Data Structures and Algorithms**  
-- 🚀 Working on **DevConnect – Developer Collaboration Platform**  
-- 📍 Purnia, Bihar, India
+Hi, I’m **Ankit Thakur**, a passionate **B.Tech student in Computer Science & Engineering (CSE)** at **Vidya Vihar Institute of Technology (VVIT)**.
+
+I’m deeply interested in core computer science subjects such as **Data Structures, Algorithms, Database Management Systems (DBMS), and Object-Oriented Programming (OOP)**. I enjoy solving problems, improving my logical thinking, and building practical applications using modern web technologies.
+
+Driven by curiosity and creativity, my goal is to use technology to build **innovative solutions that solve real-world problems**. I am constantly learning new tools, improving my development skills, and exploring different areas of software development.
+
+- 🎓 **B.Tech CSE Student**
+- 💻 Passionate about **Web Development & Problem Solving**
+- 📍 **Purnia, Bihar, India**
 
 ---
 
@@ -38,16 +42,28 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsankit52&show_icons=true&theme=tokyonight)
+![Ankit GitHub stats](https://github-readme-stats.vercel.app/api?username=itsankit52&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsankit52&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsankit52&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=itsankit52&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsankit52&theme=tokyo-night)
 
 ---
 
 ## 📌 Projects
 
 🌐 **Portfolio Website** – Personal developer portfolio (HTML, CSS, JavaScript).
-🤖 **ANI-AI Assistant** – Web Based AI (HTML, CSS, JavaScript).
+🚀 **ANI-AI Assistant** – Web Based AI Assistant (HTML, CSS, JavaScript).
 📊 **Expense Tracker** – Track daily expenses (React.js).
 
 ---
@@ -59,5 +75,3 @@
 - 📧 Email: ankitthakur960ak@gmail.com
 
 ---
-
-⭐ *Always learning, always building.*
