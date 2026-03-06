@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Web Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DSA+Enthusiast;Web+Developer;React+Learner;Building+DevConnect" />
+<img src="https://readme-typing-svg.herokuapp.com?color=ff00e1&center=true&vCenter=true&lines=DSA+Enthusiast;Web+Developer;React+Learner" />
 </p>
 
 ---
@@ -63,7 +63,9 @@ Driven by curiosity and creativity, my goal is to use technology to build **inno
 ## 📌 Projects
 
 🌐 **Portfolio Website** – Personal developer portfolio (HTML, CSS, JavaScript).
+
 🚀 **ANI-AI Assistant** – Web Based AI Assistant (HTML, CSS, JavaScript).
+
 📊 **Expense Tracker** – Track daily expenses (React.js).
 
 ---
