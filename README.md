@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Thakur</h1>
-<h3 align="center">Computer Science Student | Web Developer</h3>
+<h3 align="center">Computer Science Student | Full Stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=ff00e1&center=true&vCenter=true&lines=DSA+Enthusiast;Web+Developer;React+Learner" />
