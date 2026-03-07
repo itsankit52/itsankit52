@@ -1,71 +1,154 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Ankit%20Thakur&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Ankit Thakur</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | 💻 CSE Student | ⚡ DSA Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=ff00e1&center=true&vCenter=true&lines=DSA+Enthusiast;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=itsankit52&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-Hi, I’m **Ankit Thakur**, a passionate **B.Tech student in Computer Science & Engineering (CSE)** at **Vidya Vihar Institute of Technology (VVIT)**.
+🎓 **B.Tech Computer Science Student**
 
-I’m deeply interested in core computer science subjects such as **Data Structures, Algorithms, Database Management Systems (DBMS), and Object-Oriented Programming (OOP)**. I enjoy solving problems, improving my logical thinking, and building practical applications using modern web technologies.
+🏫 **Vidya Vihar Institute of Technology (VVIT)**
 
-Driven by curiosity and creativity, my goal is to use technology to build **innovative solutions that solve real-world problems**. I am constantly learning new tools, improving my development skills, and exploring different areas of software development.
+💡 Passionate about:
 
-- 🎓 **B.Tech CSE Student**
-- 💻 Passionate about **Web Development & Problem Solving**
-- 📍 **Purnia, Bihar, India**
+- Data Structures & Algorithms
+- Full Stack Development
+- Database Systems
+- Problem Solving
 
----
+🚀 My goal is to build **innovative software solutions for real-world problems.**
 
-## 🛠 Skills
-
-### Programming
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![REST API](https://img.shields.io/badge/REST%20API-green?style=for-the-badge)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+📍 **Purnia, Bihar, India**
 
 ---
 
-## 🔥 GitHub Streak
+# 🛠 Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=itsankit52&theme=tokyonight)
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### ⚙ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+# 🏆 GitHub Trophies
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsankit52&theme=tokyo-night)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=itsankit52&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-## 📌 Projects
-
-🌐 **Portfolio Website** – Personal developer portfolio (HTML, CSS, JavaScript).
-
-🚀 **ANI-AI Assistant** – Web Based AI Assistant (HTML, CSS, JavaScript).
-
-📊 **Expense Tracker** – Track daily expenses (React.js).
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 💼 GitHub: https://github.com/itsankit52
-- 🌐 Portfolio: https://ankit52.netlify.app
-- 📧 Email: ankitthakur960ak@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsankit52&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsankit52&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=itsankit52&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsankit52&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+![Snake animation](https://github.com/itsankit52/itsankit52/blob/output/github-contribution-grid-snake.svg)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+Personal developer portfolio built with **HTML, CSS, JavaScript**
+
+### 🤖 ANI-AI Assistant
+A **Web Based AI Assistant**
+
+Tech Used:
+
+- HTML
+- CSS
+- JavaScript
+
+### 💻 DEV Connect
+
+A **Developer Collaboration Platform** (In Progress)*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/itsankit52">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://ankit52.netlify.app">
+🌍 Portfolio
+</a>
+
+📧 **Email:** ankitthakur960ak@gmail.com
+
+</p>
 
 ---
