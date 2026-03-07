@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Ankit%20Thakur&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Ankit%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">Hi 👋, I'm Ankit Thakur</h1>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | 💻 CSE Student | ⚡ DSA Enthusiast
@@ -46,7 +46,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
 ### 🗄 Database
@@ -59,28 +59,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsankit52&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsankit52&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsankit52&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -105,16 +83,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-![Snake animation](https://github.com/itsankit52/itsankit52/blob/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
@@ -131,24 +99,17 @@ Tech Used:
 
 ### 💻 DEV Connect
 
-A **Developer Collaboration Platform** (In Progress)*
+A **Developer Collaboration Platform** where developers can connect, share projects, and collaborate with each other.  
+*(In Progress)*
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+💻 **GitHub:** https://github.com/itsankit52
 
-<a href="https://github.com/itsankit52">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://ankit52.netlify.app">
-🌍 Portfolio
-</a>
+🌐 **Portfolio:** https://ankit52.netlify.app
 
 📧 **Email:** ankitthakur960ak@gmail.com
-
-</p>
 
 ---
