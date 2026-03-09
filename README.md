@@ -58,7 +58,7 @@
 ### ⚙ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,parcel,vite" />
 </p>
 
 ---
