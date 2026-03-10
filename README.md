@@ -46,7 +46,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express" />
 </p>
 
 ### 🗄 Database
@@ -89,13 +89,14 @@
 Personal developer portfolio built with **HTML, CSS, JavaScript**
 
 ### 🤖 ANI-AI Assistant
-A **Web Based AI Assistant**
+A <b>Web Based AI Assistant</b>
 
 Tech Used:
-
 - HTML
 - CSS
 - JavaScript
+
+<a href="https://ani52.netlify" target="_blank">🔗 View Project</a>
 
 ### 💻 DEV Connect
 
