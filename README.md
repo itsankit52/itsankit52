@@ -96,7 +96,7 @@ Tech Used:
 - CSS
 - JavaScript
 
-<a href="https://ani52.netlify" target="_blank">🔗 View Project</a>
+<a href="https://ani52.netlify.app" target="_blank">🔗 View Project</a>
 
 ### 💻 DEV Connect
 
