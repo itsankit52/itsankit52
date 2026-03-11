@@ -20,8 +20,6 @@
 
 🎓 **B.Tech Computer Science Student**
 
-🏫 **Vidya Vihar Institute of Technology (VVIT)**
-
 💡 Passionate about:
 
 - Data Structures & Algorithms
