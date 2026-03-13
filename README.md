@@ -96,10 +96,13 @@ Tech Used:
 
 <a href="https://ani52.netlify.app" target="_blank">🔗 View Project</a>
 
-### 💻 DEV Connect
+## 💻 DevCollab – AI Developer Collaboration Platform
 
-A **Developer Collaboration Platform** where developers can connect, share projects, and collaborate with each other.  
-*(In Progress)*
+DevCollab is a platform where developers can **connect, showcase their projects, collaborate with other developers, and build innovative solutions together.**
+
+📅 **Project Started:** 13 March 2026
+
+ **Tech Stack** - **Frontend (UI) :** HTML, CSS, JavaScript, React.js, Vite...
 
 ---
 
