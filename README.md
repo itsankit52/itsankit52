@@ -96,7 +96,7 @@ Tech Used:
 
 <a href="https://ani52.netlify.app" target="_blank">🔗 View Project</a>
 
-## 💻 DevCollab – AI Developer Collaboration Platform
+## 💻 DevCollab – Developer Collaboration Platform
 
 DevCollab is a platform where developers can **connect, showcase their projects, collaborate with other developers, and build innovative solutions together.**
 
