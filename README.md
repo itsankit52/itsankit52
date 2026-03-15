@@ -102,7 +102,7 @@ DevCollab is a platform where developers can **connect, showcase their projects,
 
 📅 **Project Started:** 13 March 2026
 
- **Tech Stack** - **Frontend (UI) :** HTML, CSS, JavaScript, React.js, Vite...
+ **Tech Stack used** - **Frontend (UI) :** HTML, CSS, JavaScript, React.js, Vite...
 
 ---
 
