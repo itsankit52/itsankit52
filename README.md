@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Ankit%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontfamily=cursive" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:e100ff&height=180&section=header&text=Ankit%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontfamily=cursive" />
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 
