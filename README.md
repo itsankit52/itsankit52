@@ -100,8 +100,6 @@ Tech Used:
 
 DevCollab is a platform where developers can **connect, showcase their projects, collaborate with other developers, and build innovative solutions together.**
 
-📅 **Project Started:** 13 March 2026
-
  **Tech Stack used** - **Frontend (UI) :** HTML, CSS, JavaScript, React.js, Vite...
 
 ---
