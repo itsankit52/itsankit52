@@ -84,7 +84,14 @@
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-Personal developer portfolio built with **HTML, CSS, JavaScript**
+A <b>Personal Portfolio Website</b>
+
+Tech Used:
+- HTML
+- CSS
+- JavaScript
+
+<a href="https://ankit52.netlify.app" target="_blank">🔗 View</a>
 
 ### 🤖 ANI-AI Assistant
 A <b>Web Based AI Assistant</b>
@@ -94,13 +101,7 @@ Tech Used:
 - CSS
 - JavaScript
 
-<a href="https://ani52.netlify.app" target="_blank">🔗 View Project</a>
-
-## 💻 DevCollab – Developer Collaboration Platform
-
-DevCollab is a platform where developers can **connect, showcase their projects, collaborate with other developers, and build innovative solutions together.**
-
- **Tech Stack used** - **Frontend (UI) :** HTML, CSS, JavaScript, React.js, Vite...
+<a href="https://ani52.netlify.app" target="_blank">🔗 View</a>
 
 ---
 
