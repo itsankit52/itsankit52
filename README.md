@@ -81,29 +81,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-A <b>Personal Portfolio Website</b>
-
-Tech Used:
-- HTML
-- CSS
-- JavaScript
-
-<a href="https://ankit52.netlify.app" target="_blank">🔗 View</a>
-
-### 🤖 ANI-AI Assistant
-A <b>Web Based AI Assistant</b>
-
-Tech Used:
-- HTML
-- CSS
-- JavaScript
-
-<a href="https://ani52.netlify.app" target="_blank">🔗 View</a>
-
----
 
 # 🌐 Connect With Me
 
