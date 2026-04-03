@@ -44,8 +44,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,typescript,react,redux,nodejs,express" /></p>
 
 ### 🗄 Database
 
