@@ -49,7 +49,7 @@
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongoDB" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### ⚙ Tools
