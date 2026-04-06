@@ -49,7 +49,7 @@
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mongoDB" />
 </p>
 
 ### ⚙ Tools
