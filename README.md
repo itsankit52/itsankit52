@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:e100ff&height=180&section=header&text=Ankit%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontfamily=cursive" />
 
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-
 <h3 align="center">
 🚀 Full Stack Developer | 💻 CSE Student | ⚡ DSA Enthusiast
 </h3>
