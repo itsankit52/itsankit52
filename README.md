@@ -70,10 +70,33 @@
 
 # 🚀 Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| 🤖 **ANI AI Assistant** | AI-powered virtual assistant with voice commands and futuristic UI | HTML • CSS • JavaScript | [🌐 Live](https://ani52.netlify.app) |
-| 📄 **Personal Portfolio** | Modern responsive portfolio website showcasing skills and projects | HTML • CSS • JavaScript | [🌐 Live](https://ankit52.netlify.app) |
+### 🤖 ANI AI Assistant - Web Based
+
+AI-powered virtual assistant with voice commands and futuristic UI.
+
+🛠 `HTML` `CSS` `JavaScript`
+
+🔗 Live: https://ani52.netlify.app
+
+---
+
+### 📄 Personal Portfolio
+
+Modern responsive portfolio website showcasing skills and projects.
+
+🛠 `HTML` `CSS` `JavaScript`
+
+🔗 Live: https://ankit52.netlify.app
+
+---
+
+### 📄 Personal Portfolio
+
+Modern responsive portfolio website showcasing skills and projects.
+
+🛠 `HTML` `CSS` `JavaScript`
+
+🔗 Live: https://ankit52.netlify.app
 
 ---
 
