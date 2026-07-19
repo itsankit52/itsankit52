@@ -68,9 +68,19 @@
 
 ---
 
-# 🚀 Projects
+# 🚀 Top Projects
 
-### 🤖 ANI AI Assistant - Web Based
+### Nova Course – AI-Powered Learning Management System
+
+An AI-powered Learning Management System (LMS) that enables students to discover, enroll in, and learn from online courses, while instructors can create and manage educational content through a secure and intuitive platform.
+
+🛠 **Tech Stack:** `React.js` `Tailwind CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `Redux Toolkit` `JWT` `Bcrypt` `Cloudinary` `Razorpay` `Google Gemini API` `REST API`
+
+🔗 Live: https://nova-x-ankit.onrender.com
+
+---
+
+### ANI AI Assistant - Web Based
 
 AI-powered virtual assistant with voice commands and futuristic UI.
 
@@ -80,7 +90,7 @@ AI-powered virtual assistant with voice commands and futuristic UI.
 
 ---
 
-### 📄 Personal Portfolio
+### Personal Portfolio
 
 Modern responsive portfolio website showcasing skills and projects.
 
