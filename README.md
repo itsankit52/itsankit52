@@ -27,33 +27,36 @@
 
 🚀 My goal is to build **innovative software solutions for real-world problems.**
 
+🤝 Open to collaborating on **Open Source, Full Stack (MERN) Development projects.**
+
 📍 **Purnia, Bihar, India**
 
 ---
 
 # 🛠 Tech Stack
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp" />
+<p align="left">
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,typescript,react,redux,nodejs,express" /></p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<p align="left">
+  <strong>Client Side</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux" />
 </p>
 
-### ⚙ Tools
+<p align="left">
+  <strong>Server Side</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vite" />
+<p align="left">
+  <strong>Database</strong><br>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+<p align="left">
+  <strong>🛠️ Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,netlify,render,postman," />
 </p>
 
 ---
@@ -70,13 +73,15 @@
 
 # 🚀 Top Projects
 
-### Nova Course – AI-Powered Learning Management System
+### NextGen – AI-Powered Learning Management System
 
 An AI-powered Learning Management System (LMS) that enables students to discover, enroll in, and learn from online courses, while instructors can create and manage educational content through a secure and intuitive platform.
 
+AI Chat Assistant: Enables real-time doubt solving, concept explanations, lesson summarization, and personalized learning support to enhance the learning experience.
+
 🛠 **Tech Stack:** `React.js` `Tailwind CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `Redux Toolkit` `JWT` `Bcrypt` `Cloudinary` `Razorpay` `Google Gemini API` `REST API`
 
-🔗 Live: https://nova-x-ankit.onrender.com
+🔗 Live: https://nextgen-lne2.onrender.com
 
 ---
 
