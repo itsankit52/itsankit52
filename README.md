@@ -56,7 +56,7 @@
 
 <p align="left">
   <strong>🛠️ Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,netlify,render,postman," />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,netlify,postman," />
 </p>
 
 ---
