@@ -101,7 +101,7 @@ Modern responsive portfolio website showcasing skills and projects.
 
 🛠 `HTML` `CSS` `JavaScript`
 
-🔗 Live: https://ankit52.netlify.app
+🔗 Live: https://ankit5.netlify.app
 
 ---
 
