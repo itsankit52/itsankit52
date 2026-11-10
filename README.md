@@ -5,10 +5,6 @@ Full Stack Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=itsankit52&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
