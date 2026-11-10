@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:e100ff&height=180&section=header&text=Ankit%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontfamily=cursive" />
 
 <h3 align="center">
-🚀 Full Stack Developer | 💻 CSE Student | ⚡ DSA Enthusiast
+Full Stack Engineer
 </h3>
 
 <p align="center">
@@ -25,11 +25,11 @@
 - Database Systems
 - Problem Solving
 
-🚀 My goal is to build **innovative software solutions for real-world problems.**
+My goal is to build **innovative software solutions for real-world problems.**
 
-🤝 Open to collaborating on **Open Source, Full Stack (MERN) Development projects.**
+Open to collaborating on **Open Source, Full Stack (MERN) Development projects.**
 
-📍 **Purnia, Bihar, India**
+**Purnia, Bihar, India**
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-# 🚀 Top Projects
+#  Top Projects
 
 ### NextGen – AI-Powered Learning Management System
 
@@ -79,9 +79,9 @@ An AI-powered Learning Management System (LMS) that enables students to discover
 
 AI Chat Assistant: Enables real-time doubt solving, concept explanations, lesson summarization, and personalized learning support to enhance the learning experience.
 
-🛠 **Tech Stack:** `React.js` `Tailwind CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `Redux Toolkit` `JWT` `Bcrypt` `Cloudinary` `Razorpay` `Google Gemini API` `REST API`
+ **Tech Stack:** `React.js` `Tailwind CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `Redux Toolkit` `JWT` `Bcrypt` `Cloudinary` `Razorpay` `Google Gemini API` `REST API`
 
-🔗 Live: https://nextgen-lne2.onrender.com
+ Live: https://nextgen-lne2.onrender.com
 
 ---
 
@@ -89,9 +89,9 @@ AI Chat Assistant: Enables real-time doubt solving, concept explanations, lesson
 
 AI-powered virtual assistant with voice commands and futuristic UI.
 
-🛠 `HTML` `CSS` `JavaScript`
+ `HTML` `CSS` `JavaScript`
 
-🔗 Live: https://ani52.netlify.app
+ Live: https://ani52.netlify.app
 
 ---
 
@@ -99,13 +99,13 @@ AI-powered virtual assistant with voice commands and futuristic UI.
 
 Modern responsive portfolio website showcasing skills and projects.
 
-🛠 `HTML` `CSS` `JavaScript`
+ `HTML` `CSS` `JavaScript`
 
-🔗 Live: https://ankit5.netlify.app
+ Live: https://ankit5.netlify.app
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -116,12 +116,12 @@ Modern responsive portfolio website showcasing skills and projects.
 ---
 
 
-# 🌐 Connect With Me
+#  Connect With Me
 
-💻 **GitHub:** https://github.com/itsankit52
+ **GitHub:** https://github.com/itsankit52
 
-🌐 **Portfolio:** https://ankit52.netlify.app
+ **Portfolio:** https://ankit52.netlify.app
 
-📧 **Email:** ankitthakur960ak@gmail.com
+ **Email:** ankitthakur960ak@gmail.com
 
 ---
