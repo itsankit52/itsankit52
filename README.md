@@ -73,15 +73,18 @@ Open to collaborating on **Open Source, Full Stack (MERN) Development projects.*
 
 #  Top Projects
 
-### NextGen – AI-Powered Learning Management System
+### AcadIn – Academia-Industry Collaboration Platform
 
-An AI-powered Learning Management System (LMS) that enables students to discover, enroll in, and learn from online courses, while instructors can create and manage educational content through a secure and intuitive platform.
+A platform designed to connect students, academic institutions, and companies by bridging the gap between education and industry. It enables students to explore internship and job opportunities, apply for positions, and connect with companies, while organizations can manage opportunities and discover talented candidates through an intuitive platform.
 
-AI Chat Assistant: Enables real-time doubt solving, concept explanations, lesson summarization, and personalized learning support to enhance the learning experience.
+Key Features: 
+Student and company profiles, internship and job postings, application management, and seamless interaction between academia and industry.
 
- **Tech Stack:** `React.js` `Tailwind CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `Redux Toolkit` `JWT` `Bcrypt` `Cloudinary` `Razorpay` `Google Gemini API` `REST API`
+AI-powered student assessments to evaluate skills and identify knowledge gaps, personalized learning and skill recommendations, and AI-driven job and internship recommendations based on students' skills, interests, and assessment results.
 
- Live: https://nextgen-lne2.onrender.com
+ **Tech Stack:** `React.js` `Tailwind CSS` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Bcrypt` `Cloudinary` `Google Gemini API` `REST API`
+
+ Live: https://aip-qq08.onrender.com
 
 ---
 
@@ -120,7 +123,7 @@ Modern responsive portfolio website showcasing skills and projects.
 
  **GitHub:** https://github.com/itsankit52
 
- **Portfolio:** https://ankit52.netlify.app
+ **Portfolio:** https://ankit5.netlify.app
 
  **Email:** ankitthakur960ak@gmail.com
 
